@@ -1,2 +1,0 @@
-# Eee
-OFFICIAL EGZILE BOT
